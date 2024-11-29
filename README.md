@@ -1,5 +1,5 @@
 # 3D Слънчева Система
-Delevoper: Daniel Milev <br>
+Автор: Даниел Милев <br>
 
 <a href="https://github.com/danitmb/SolarSystem/raw/refs/heads/main/install/SolarSystem.zip">Download</a>
 
@@ -47,50 +47,46 @@ Delevoper: Daniel Milev <br>
 
 ### Клавиатура
 
-- WASD и стрелки – движение на изглед;
-- 1 – 0 на клавиатурата – промяна на изглед към изглед на планети;
-- 1 – 6 на клавиатурата - промяна на изглед към изглед на луни;
-- E – промяна на фона;
-- I – влизане и излизане от космически кораб;
-- O – показва орбити;
-- P – пауза;
-- J – промяна към страничен изглед (в изглед на планета);
-- K – покажи космически кораб;
-- L – промяна на езика;
-- Клавиатура (+, -) – промяна на скоростта на симулация;
-- Интервал – връщане към изгледа по подразбиране;
-- F1 – промяна на изгледа на freecam;
-- X - показва допълнителна информация (в изглед на планета);
-- F – превключване между цял екран и прозорец;
+- WASD и стрелки – движение на изглед
+- 1 – 0 на клавиатурата – промяна на изглед към изглед на планети
+- 1 – 6 на клавиатурата - промяна на изглед към изглед на луни
+- E – промяна на фона
+- I – влизане и излизане от космически кораб
+- O – показва орбити
+- P – пауза
+- J – промяна към страничен изглед (в изглед на планета)
+- K – покажи космически кораб
+- L – промяна на езика
+- Клавиатура (+, -) – промяна на скоростта на симулация
+- Интервал – връщане към изгледа по подразбиране
+- F1 – промяна на изгледа на freecam
+- X - показва допълнителна информация (в изглед на планета)
+- F – превключване между цял екран и прозорец
 
+### Мишка
+- ляв бутон - панорамиране по X и Z ос
+- бутон за превъртане - увеличаване/намаляване
+- десен бутон - завъртане
 
-
-
-
-### Mouse
-- left button - panning in X and Z axis
-- scroll button - zoom in/out
-- right button - rotate
-
-Camera view can be moved with WASD (in X and Z axis) and Arrows for up and down (in Y axis).
+Изгледът на камерата може да се мести с WASD (по ос X и Z) и стрелки за нагоре и надолу (по оста Y).
 
 <div align="center">
 <video src="https://github.com/user-attachments/assets/93e99bb8-7f29-4a39-b89f-99a0e82a597e" />
 </div>
 
-Asteroid belt view is activated by pressing the 0 key:
+Изгледът на астероидния пояс се активира чрез натискане на клавиша 0:
 
 <div align="center">
 <video src="https://github.com/user-attachments/assets/b8a709a6-67bc-4fda-bf5d-5f1afc7a1ef3" />
 </div>
 
-Detailed info of asteroids can be activated with X key:
+Подробна информация за астероидите може да се активира с клавиш X:
 
 <div align="center">
 <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/AsteroidsInfo.jpg?raw=true" width="854px"/>
 </div>
 
-The display of planet orbits can be toggled on and off using the "O" key, and this feature works in both normal and planet views.
+Показването на орбитите на планетите може да се включва и изключва с помощта на клавиша "O" и тази функция работи както в нормален изглед, така и в изглед на планета.
 
 <p align="center">
 <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Orbits.jpg?raw=true" width="854px"/>
@@ -98,7 +94,7 @@ The display of planet orbits can be toggled on and off using the "O" key, and th
 
 
 
-You can switch between the following planetary camera views using the 1-9 keys on the keyboard:
+Можете да превключвате между следните изгледи на планетарна камера, като използвате клавишите 1-9 на клавиатурата:
 
 | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Mercury.jpg?raw=true" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Venus.jpg?raw=true" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Earth.jpg?raw=true" width="300px"/> 
 |:---:|:---:|:---:|
@@ -112,7 +108,7 @@ You can switch between the following planetary camera views using the 1-9 keys o
 |:---:|:---:|:---:|
 | *<b>Neptune - Key:7 </b>* | *<b>Uranus - Key:8 </b>* | *<b>Pluto - Key:9 </b>* | 
 
-Planets and moons view can be switched to side orbital view with J key:
+Изгледът на планети и луни може да се превключи на страничен орбитален изглед с клавиш J:
 
 | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Mercury2.jpg?raw=true" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Venus2.jpg?raw=true" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Earth2.jpg?raw=true" width="300px"/> 
 |:---:|:---:|:---:|
@@ -126,7 +122,7 @@ Planets and moons view can be switched to side orbital view with J key:
 |:---:|:---:|:---:|
 | *<b>Neptune Side View - Key:7+J </b>* | *<b>Uranus Side View - Key:8+J </b>* | *<b>Pluto Side View - Key:9 +J</b>* | 
 
-Camera views for several of the moons (1–6 on the keypad):
+Изгледи на камерата за няколко от луните (1–6 на клавиатурата):
 
 | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Moon2.jpg?raw=true" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Io2.jpg?raw=true" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Europa2.jpg?raw=true" width="300px"/> 
 |:---:|:---:|:---:|
@@ -136,13 +132,13 @@ Camera views for several of the moons (1–6 on the keypad):
 |:---:|:---:|:---:|
 | *<b>Ganymede - KeyPad:4 </b>* | *<b>Callisto- KeyPad:5 </b>* | *<b>Triton - KeyPad:6 </b>* | 
 
-In planet views there is additional information about the planets displayed with X key:
+В изгледите на планети има допълнителна информация за планетите, показани с клавиша X:
 
 | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/EarthInfo.jpg?raw=true" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/MarsInfo.jpg?raw=true" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/PlutoInfo.jpg?raw=true" width="300px"/> 
 |:---:|:---:|:---:|
 | *<b>Earth - Key:3+X</b>* | *<b>Mars - Key:4+X</b>* | *<b>Pluto- Key:9+X</b>* | 
 
-Again J and O keys can be used to display planet orbits:
+Отново клавишите J и O могат да се използват за показване на орбитите на планетите:
 
 <div align="center">
  <video src="https://github.com/user-attachments/assets/4a4b5588-219a-4aa4-bb61-bf4b96394c10" />
@@ -152,30 +148,30 @@ Again J and O keys can be used to display planet orbits:
  <video src="https://github.com/user-attachments/assets/44519ce4-bae0-4643-925b-45b4cee0c2d3" />
 </div>
 
-# More to come..
+# Предстои още..
 <ul>
-  <li>Spacehip travel around the solar system </li>
+  <li>Пътешествие с космически кораб из Слънчевата система </li>
   
   | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Spaceship1.jpg?raw=true" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Spaceship2.jpg?raw=true" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Spaceship3.jpg?raw=true" width="300px"/> 
   |:---:|:---:|:---:|
-  <li>Selection of planets and interaction </li>
-  <li>Showing planets internal structure</li>
+  <li>Избор на планети и взаимодействие </li>
+  <li>Показване на вътрешната структура на планетите</li>
 </ul> 
 
-# Drew inspiration from
+# Ресурси
 * <a href="https://learnopengl.com">learnopengl</a> - extensive tutorial resource for learning OpenGL
 * <a href="https://www.solarsystemscope.com">solarsystemscope.com </a> - textures of the planets in the Solar system
 * <a href="https://sketchfab.com">sketchfab.com </a> - 3D object models
 * <a href="https://github.com/1kar/OpenGL-SolarSystem">OpenGL-SolarSystem</a> - 3D C/C++/OpenGL/GLFW Simple Solar System model
 
 # Release
-<b>SolarSystem 1.0 </b>can be downloaded from: 
+<b>SolarSystem 1.0 </b>можете да изтеглите от:
 |Version (<b>1.0</b>)|  [SolarSystem.zip](https://github.com/danitmb/SolarSystem/raw/refs/heads/main/install/SolarSystem.zip)|
 |---|---|
-|User Manual| [SolarSystem.pdf](docs/SolarSystem.pdf)|
+|Ръководство за потребителя| [SolarSystem.pdf](docs/SolarSystem.pdf)|
 
-## System Requirments
+## Системни изисквания
 
 Windows OS 10/11
 <br>
-Video card supporting OpenGL 4.x and 1GB memory
+Видео карта, поддържаща OpenGL 4.x и 1GB памет
