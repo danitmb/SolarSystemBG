@@ -159,10 +159,10 @@
 </ul> 
 
 # Ресурси
-* <a href="https://learnopengl.com">learnopengl</a> - extensive tutorial resource for learning OpenGL
-* <a href="https://www.solarsystemscope.com">solarsystemscope.com </a> - textures of the planets in the Solar system
-* <a href="https://sketchfab.com">sketchfab.com </a> - 3D object models
-* <a href="https://github.com/1kar/OpenGL-SolarSystem">OpenGL-SolarSystem</a> - 3D C/C++/OpenGL/GLFW Simple Solar System model
+* <a href="https://learnopengl.com">learnopengl</a> - онлайн ресурси и курсове за обучение с OpenGL
+* <a href="https://www.solarsystemscope.com">solarsystemscope.com </a> - текстури на планетите от Слънчевата Сиситема
+* <a href="https://sketchfab.com">sketchfab.com </a> - 3D модели
+* <a href="https://github.com/1kar/OpenGL-SolarSystem">OpenGL-SolarSystem</a> - проект за Слънчева Сиситема с 3D C/C++/OpenGL/GLFW 
 
 # Release
 <b>SolarSystem 1.0 </b>можете да изтеглите от:
