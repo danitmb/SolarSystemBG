@@ -1,4 +1,5 @@
-	# 3D Слънчева Система
+# 3D Слънчева Система
+
 Автор: Даниел Милев <br>
 
 <a href="https://github.com/danitmb/SolarSystem/raw/refs/heads/main/install/SolarSystem.zip">Download</a>
