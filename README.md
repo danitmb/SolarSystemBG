@@ -65,9 +65,9 @@
 - F – превключване между цял екран и прозорец
 
 ### Мишка
-- ляв бутон - панорамиране по X и Z ос
-- бутон за превъртане - увеличаване/намаляване
-- десен бутон - завъртане
+- ляв бутон - движение по X и Z ос
+- скрол бутон - увеличаване/намаляване
+- десен бутон - ротация
 
 Изгледът на камерата може да се мести с WASD (по ос X и Z) и стрелки за нагоре и надолу (по оста Y).
 
@@ -152,6 +152,7 @@
 # Предстои още..
 <ul>
   <li>Луните на Сатурн</li>
+  <li>Поясът на Кайпер  <a href="https://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D1%8F%D1%81_%D0%BD%D0%B0_%D0%9A%D0%B0%D0%B9%D0%BF%D0%B5%D1%80">виж</a></li>
   <li>Пътешествие с космически кораб из Слънчевата система </li>
   
   | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Spaceship1.jpg?raw=true" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Spaceship2.jpg?raw=true" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Spaceship3.jpg?raw=true" width="300px"/> 
