@@ -169,7 +169,7 @@
 <b>SolarSystem 1.0 </b>можете да изтеглите от:
 |Version (<b>1.0</b>)|  [SolarSystem.zip](https://github.com/danitmb/SolarSystem/raw/refs/heads/main/install/SolarSystem.zip)|
 |---|---|
-|Ръководство за потребителя| [SolarSystem.pdf](docs/SolarSystem.pdf)|
+|Ръководство за потребителя| [SolarSystem.pdf](https://github.com/danitmb/SolarSystem/blob/main/docs/SolarSystem.pdf)|
 
 ## Системни изисквания
 
