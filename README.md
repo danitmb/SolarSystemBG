@@ -1,143 +1,159 @@
-# 3D Слънчева Система
+# 3D Слънчева система
+Разработчик: Даниел Милев <br>
 
-Автор: Даниел Милев <br>
-
-<a href="https://github.com/danitmb/SolarSystem/raw/refs/heads/main/install/SolarSystem.zip">Download</a>
+<a href="https://github.com/danitmb/SolarSystem/raw/refs/heads/main/install/SolarSystem.zip">Свали</a>
 
 # Въведение
 
-Проектът има за цел да разработи 3D симулация на Слънчевата система с помощта на OpenGL и съвременни мултимедийни технологии. Тази симулация ще улесни изучаването на геометрията, позициите и орбиталните скорости на планетите и техните луни. Освен това има и изглед на Астероидния Пояс, разположен между Марс и Юпитер, който притежава значителен потенциал за бъдещо проучване и използването на ресурси.
+Проектът има за цел да разработи 3D симулация на Слънчевата система, използвайки OpenGL и съвременни мултимедийни технологии. Тази симулация ще улесни изучаването на геометрията, позициите и орбиталните скорости на планетите и техните луни. Освен това, тя предлага общ преглед на астероидния пояс, разположен между Марс и Юпитер, който има значителен потенциал за бъдещи изследвания и използване на ресурси.
 
-Симулацията започва с свободна камера, която позволява движение и въртене в 3D пространство с помощта на мишката и клавиатурата. Чрез натискане на цифровите клавиши 1-9 потребителите могат да превключват към стационарни орбитални камери, разположени на фиксирани места спрямо деветте планети. Освен това има и още шест стационарни камери, посветени на конкретни луни и Астероидния Пояс.
+Симулацията започва със свободна камера, която позволява движение и въртене в 3D пространство с помощта на мишка и клавиатура. Чрез натискане на числата от 1 до 9, потребителите могат да превключват на орбитални камери, разположени на фиксирани места спрямо деветте планети. Освен това има шест стационарни камери, посветени на конкретни луни и астероидния пояс.
 
-Приложението ви позволява да регулирате скоростта на симулацията или да я поставите на пауза във всеки избран момент, което позволява подробно проучване на движенията на небесните тела. Също така има възможност за визуализиране на орбитите на планетите и техните луни.
+Приложението ви позволява да регулирате скоростта на симулацията или да я паузирате по всяко време, което позволява подробно изучаване на движенията на небесните тела. То също така предоставя възможност за визуализация на орбитите на планетите и техните луни.
 
-Въпреки че мнозина мечтаят да пътуват до Космоса и се надявам това да стане реалност в близко бъдеще, 3D симулацията на Слънчевата Система предлага възможността да пилотирате виртуален космически кораб, изследвайки дестинации от Слънцето до Плутон.
+Докато много хора мечтаят да пътуват в космоса и се надявам това да стане реалност в близко бъдеще, 3D симулацията на Слънчевата система предлага възможността да управлявате виртуален космически кораб, изследвайки дестинации от Слънцето до Плутон.
 
 <p align="center">
-<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/start.jpg?raw=true" width="854px"/>
+<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/start.jpg" width="854px"/>
 </p>
 
-# Основни етапи в реализирането на проекта
+# Основни етапи при реализирането на проекта
 
-1. Определяне на идея
-2. Представане на ръководителя
-3. Определяне на технически средсва за разработване
-4. Планиране и оформяне на проекта
-5. Разработване на функционалност
-6. Тестване и корекция
-7. Публикуване и споделяне
-
+- Дефиниране на идея
+- Представяне на мениджър
+- Определяне на техническите средства за разработка
+- Планиране и формулиране на проекта
+- Разработка на функционалност
+- Тестване и корекция
+- Публикуване и споделяне
 
 # Използвани технологии
 
-- C++ - език за програмиране
-- Microsoft Visual Studio - среда за програмиране
-- Assimp - библиотека, която зарежда различни 3D файлови формати
-- FreeType2 - софтуерна библиотека с отворен код, предназначена за изобразяване на шрифтове
-- OpenGL - междуезичен, междуплатформен интерфейс за програмиране на приложения за изобразяване на 2D и 3D векторни графики
-- Glm - C++ математическа библиотека за OpenGL
-- GLFW - Предоставя прост API за създаване на прозорци, контексти и повърхности, получаване на входни данни и събития
-- GLSL - език за засенчване на високо ниво, предназначен за писане на шейдъри
-- SketchUp - популярен софтуер за 3D моделиране, използван за създаване, редактиране и споделяне на 3D дизайн
-- Github - GitHub е базирана на облак платформа, където можете да съхранявате, споделяте и да си сътрудничите с други, за да пишете код
+- C++ -- Програмен език
+- Microsoft Visual Studio - Програмираща среда
+- Assimp - библиотека за зареждане на различни 3D файлови формати
+- OpenGL - платформа за рендиране на 2D и 3D векторна графика
+- GLFW - предоставя API за създаване на прозорци, контексти и повърхности, получаване на вход и събития
+- Github - платформа за съхранение и споделяне на код
+- Glm - C++ математически библиотеки за OpenGL
+- GLSL - висококачествен език за писане на шейдъри
+- FreeType2 - библиотека за рендиране на шрифтове
+- SketchUp - софтуер за 3D моделиране
 
 # Логическо и функционално описание на приложението
 
-Програмата предоставя възможност за изследване на всяка отделна планета от различни перспективи. Тя позволява на потребителите да се озоват в Астероидния пояс и да получат задълбочена информация за планетите.
+Програмата позволява разглеждане на различни перспективи и луни, смяна на камери и множество други настройки чрез следните бутони. Можете да добавяте или премахвате орбити, да стартирате специален режим за допълнителна информация и др.
 
 ### Клавиатура
-
-- WASD и стрелки – движение на изглед
-- 1 – 0 на клавиатурата – промяна на изглед към изглед на планети
-- 1 – 6 на клавиатурата - промяна на изглед към изглед на луни
-- E – промяна на фона
+- WASD и стрелките – движение на камерата
+- 1 – 0 на клавиатурата – смяна на камерата към изглед на планетите
+- 1 – 6 на цифровата клавиатура – смяна на камерата към изглед на луните
+- E – смяна на фона
 - I – влизане и излизане от космически кораб
-- O – показва орбити
-- P – пауза
-- J – промяна към страничен изглед (в изглед на планета)
-- K – покажи космически кораб
-- L – промяна на езика
-- Клавиатура (+, -) – промяна на скоростта на симулация
-- Интервал – връщане към изгледа по подразбиране
-- F1 – промяна на изгледа на freecam
-- X - показва допълнителна информация (в изглед на планета)
-- F – превключване между цял екран и прозорец
+- O – показване на орбитите
+- P – замразяване на времето
+- J – смяна на камерата към страничен изглед (в изглед на планети)
+- K – показване на космическия кораб
+- L – смяна на езика
+- (+, -) на цифровата клавиатура – смяна на скоростта на симулацията
+- Space – връщане към стандартна перспектива
+- F1 – промяна към свободна камера
+- X – показване на допълнителна информация (в изглед на планети)
+- F – превключване на цял екран
 
 ### Мишка
-- ляв бутон - движение по X и Z ос
-- скрол бутон - увеличаване/намаляване
-- десен бутон - ротация
+- Ляв бутон - движение по осите X и Z
+- Скрол бутон - увеличение/намаление
+- Десен бутон - завъртане
+Камерата може да се движи с WASD (по осите X и Z) и стрелките за нагоре и надолу (по ос Y).
 
-Изгледът на камерата може да се мести с WASD (по ос X и Z) и стрелки за нагоре и надолу (по оста Y).
-
-<div align="center">
-<video src="https://github.com/user-attachments/assets/93e99bb8-7f29-4a39-b89f-99a0e82a597e" />
-</div>
-
-Изгледът на астероидния пояс се активира чрез натискане на клавиша 0:
+Изгледът на астероидния пояс се активира с натискане на клавиша 0:
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/b8a709a6-67bc-4fda-bf5d-5f1afc7a1ef3" />
+<video src="https://github.com/user-attachments/assets/d2a3ac43-2120-4f64-963b-7fc302c3c72d" />
 </div>
 
-Подробна информация за астероидите може да се активира с клавиш X:
+Подробна информация за астероидите може да се активира с клавиша X:
 
 <div align="center">
-<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/AsteroidsInfo.jpg?raw=true" width="854px"/>
+<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/AsteroidsInfo.jpg" width="854px"/>
 </div>
 
-Показването на орбитите на планетите може да се включва и изключва с помощта на клавиша "O" и тази функция работи както в нормален изглед, така и в изглед на планета.
+## Астероиди от пояса на Кайпер
+
+Изгледът на пояса на Кайпер се активира с клавиша 0 на цифровата клавиатура:
+
+<div align="center">
+<video src="https://github.com/user-attachments/assets/b7320a26-fe4c-4018-aace-eb966d712971" />
+</div>
+
+<div align="center">
+<video src="https://github.com/user-attachments/assets/cd410638-9a8c-4ca7-805a-06d684e070ba" />
+</div>
+
+Допълнителната информация за пояса на Кайпер се показва с натискане на клавиша X
+
+<div align="center">
+<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/AsteroidsKuiperInfo.jpg" width="854px"/>
+</div>
+
+Показването на орбитите на планетите може да се включва и изключва с клавиша "O", като тази функция работи както в нормален, така и в изглед на планети.
 
 <p align="center">
-<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Orbits.jpg?raw=true" width="854px"/>
+<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Orbits.jpg" width="854px"/>
 </p>
 
+Можете да превключвате между следните изгледи на планетарни камери, използвайки клавишите от 1 до 9 на клавиатурата:
 
-
-Можете да превключвате между следните изгледи на планетарна камера, като използвате клавишите 1-9 на клавиатурата:
-
-| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Mercury.jpg?raw=true" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Venus.jpg?raw=true" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Earth.jpg?raw=true" width="300px"/> 
+| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Mercury.jpg" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Venus.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Earth.jpg" width="300px"/> 
 |:---:|:---:|:---:|
-| *<b>Mercury - Key:1 </b>* | *<b>Venus  - Key:2</b>* | *<b>Earth - Key:3</b>* | 
+| *<b>Меркурий - Клавиш:1 </b>* | *<b>Венера  - Клавиш:2</b>* | *<b>Земя - Клавиш:3</b>* | 
 
-| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Mars.jpg?raw=true" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Jupiter.jpg?raw=true" width="300px"/>|<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Saturn.jpg?raw=true" width="300px"/>|
+| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Mars.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Jupiter.jpg" width="300px"/>|<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Saturn.jpg" width="300px"/>|
 |:---:|:---:|:---:|
-| *<b>Mars - Key:4 </b>* | *<b>Jupiter - Key:5 </b>* | *<b>Saturn - Key:6 </b>* | 
+| *<b>Марс - Клавиш:4 </b>* | *<b>Юпитер - Клавиш:5 </b>* | *<b>Сатурн - Клавиш:6 </b>* | 
 
-| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Neptune.jpg?raw=true" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Uranus.jpg?raw=true" width="300px"/>|<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Pluto.jpg?raw=true" width="300px"/>|
+| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Neptune.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Uranus.jpg" width="300px"/>|<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Pluto.jpg" width="300px"/>|
 |:---:|:---:|:---:|
-| *<b>Neptune - Key:7 </b>* | *<b>Uranus - Key:8 </b>* | *<b>Pluto - Key:9 </b>* | 
+| *<b>Нептун - Клавиш:7 </b>* | *<b>Уран - Клавиш:8 </b>* | *<b>Плутон - Клавиш:9 </b>* | 
 
-Изгледът на планети и луни може да се превключи на страничен орбитален изглед с клавиш J:
+Изгледите на планети и луни могат да се превключват на страничен орбитален изглед с клавиша J:
 
-| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Mercury2.jpg?raw=true" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Venus2.jpg?raw=true" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Earth2.jpg?raw=true" width="300px"/> 
+| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Mercury2.jpg" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Venus2.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Earth2.jpg" width="300px"/> 
 |:---:|:---:|:---:|
-| *<b>Mercury Side View - Key:1+J </b>* | *<b>Venus Side View - Key:2+J</b>* | *<b>Earth  Side View- Key:3+J</b>* | 
+| *<b>Меркурий - Клавиш:1+J </b>* | *<b>Венера - Клавиш:2+J</b>* | *<b>Земя - Клавиш:3+J</b>* | 
 
-| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Mars2.jpg?raw=true" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Jupiter2.jpg?raw=true" width="300px"/>|<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Saturn2.jpg?raw=true" width="300px"/>|
+| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Mars2.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Jupiter2.jpg" width="300px"/>|<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Saturn2.jpg" width="300px"/>|
 |:---:|:---:|:---:|
-| *<b>Mars Side View - Key:4+J </b>* | *<b>Jupiter Side View- Key:5+J </b>* | *<b>Saturn Side View - Key:6+J </b>* | 
+| *<b>Марс - Клавиш:4+J </b>* | *<b>Юпитер - Клавиш:5+J </b>* | *<b>Сатурн - Клавиш:6+J </b>* | 
 
-| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Neptune2.jpg?raw=true" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Uranus2.jpg?raw=true" width="300px"/>|<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Pluto2.jpg?raw=true" width="300px"/>|
+| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Neptune2.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Uranus2.jpg" width="300px"/>|<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Pluto2.jpg" width="300px"/>|
 |:---:|:---:|:---:|
-| *<b>Neptune Side View - Key:7+J </b>* | *<b>Uranus Side View - Key:8+J </b>* | *<b>Pluto Side View - Key:9 +J</b>* | 
+| *<b>Нептун - Клавиш:7+J </b>* | *<b>Уран - Клавиш:8+J </b>* | *<b>Плутон - Клавиш:9 +J</b>* | 
 
-Изгледи на камерата за няколко от луните (1–6 на клавиатурата):
+Изгледи на луните (1–6 на цифровата клавиатура):
 
-| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Moon2.jpg?raw=true" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Io2.jpg?raw=true" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Europa2.jpg?raw=true" width="300px"/> 
+| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Moon2.jpg" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Io2.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Europa2.jpg" width="300px"/> 
 |:---:|:---:|:---:|
-| *<b>Moon - KeyPad:1</b>* | *<b>Io - KeyPad:2</b>* | *<b>Europa- KeyPad:3</b>* | 
+| *<b>Луна - Цифр. клавиатура:1</b>* | *<b>Ио - Цифр. клавиатура:2</b>* | *<b>Европа - Цифр. клавиатура:3</b>* | 
 
-| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Ganymede2.jpg?raw=true" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Callisto2.jpg?raw=true" width="300px"/>|<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Triton.jpg?raw=true" width="300px"/>|
+| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Ganymede2.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Callisto2.jpg" width="300px"/>|<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Rhea2.jpg" width="300px"/>|
 |:---:|:---:|:---:|
-| *<b>Ganymede - KeyPad:4 </b>* | *<b>Callisto- KeyPad:5 </b>* | *<b>Triton - KeyPad:6 </b>* | 
+| *<b>Ганимед - Цифр. клавиатура:4 </b>* | *<b>Калисто - Цифр. клавиатура:5 </b>* | *<b>Рея - Цифр. клавиатура:6 </b>* | 
 
-В изгледите на планети има допълнителна информация за планетите, показани с клавиша X:
-
-| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/EarthInfo.jpg?raw=true" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/MarsInfo.jpg?raw=true" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/PlutoInfo.jpg?raw=true" width="300px"/> 
+| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Titan2.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Oberon2.jpg" width="300px"/>|<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Triton2.jpg" width="300px"/>|
 |:---:|:---:|:---:|
-| *<b>Earth - Key:3+X</b>* | *<b>Mars - Key:4+X</b>* | *<b>Pluto- Key:9+X</b>* | 
+| *<b>Титан - Цифр. клавиатура:7 </b>* | *<b>Оберон - Цифр. клавиатура:8 </b>* | *<b>Тритон - Цифр. клавиатура:9 </b>* | 
+
+В изглед на планети и луни има допълнителна информация за обектите, която се показва с клавиша X:
+
+| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/EarthInfo.jpg" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/MarsInfo.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/https://github.com/danitmb/SolarSystem/blob/main/pics/PlutoInfo.jpg" width="300px"/> 
+|:---:|:---:|:---:|
+| *<b>Земя - Клавиш:3+X</b>* | *<b>Марс - Клавиш:4+X</b>* | *<b>Плутон - Клавиш:9+X</b>* | 
+
+| <img src="https://github.com/danitmb/SolarSystem/blob/main/https://github.com/danitmb/SolarSystem/blob/main/pics/MoonInfo.jpg" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/CallistoInfo.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/TritonInfo.jpg" width="300px"/> 
+|:---:|:---:|:---:|
+| *<b>Луна - Клавиш:Цифр. клавиатура 1+X</b>* | *<b>Калисто - Клавиш:Цифр. клавиатура 6+X</b>* | *<b>Тритон - Клавиш:Цифр. клавиатура 9+X</b>* | 
 
 Отново клавишите J и O могат да се използват за показване на орбитите на планетите:
 
@@ -149,32 +165,37 @@
  <video src="https://github.com/user-attachments/assets/44519ce4-bae0-4643-925b-45b4cee0c2d3" />
 </div>
 
-# Предстои още..
+<div align="center">
+ <video src="https://github.com/user-attachments/assets/2cb0302a-fcc6-4c19-9269-390e43d89f01" />
+</div>
+
+# Предстои още...
 <ul>
-  <li>Луните на Сатурн</li>
-  <li>Поясът на Кайпер  <a href="https://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D1%8F%D1%81_%D0%BD%D0%B0_%D0%9A%D0%B0%D0%B9%D0%BF%D0%B5%D1%80">виж</a></li>
-  <li>Пътешествие с космически кораб из Слънчевата система </li>
+  <li>Пътуване с космически кораб из Слънчевата система</li>
   
-  | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Spaceship1.jpg?raw=true" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Spaceship2.jpg?raw=true" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Spaceship3.jpg?raw=true" width="300px"/> 
+  | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Spaceship1.jpg" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Spaceship2.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Spaceship3.jpg" width="300px"/> 
   |:---:|:---:|:---:|
-  <li>Избор на планети и взаимодействие </li>
+  <li>Избор на планети и взаимодействие</li>
   <li>Показване на вътрешната структура на планетите</li>
-</ul> 
+</ul>
 
-# Ресурси
-* <a href="https://learnopengl.com">learnopengl</a> - онлайн ресурси и курсове за обучение с OpenGL
-* <a href="https://www.solarsystemscope.com">solarsystemscope.com </a> - текстури на планетите от Слънчевата Сиситема
-* <a href="https://sketchfab.com">sketchfab.com </a> - 3D модели
-* <a href="https://github.com/1kar/OpenGL-SolarSystem">OpenGL-SolarSystem</a> - проект за Слънчева Сиситема с 3D C/C++/OpenGL/GLFW 
+# Вдъхновение
+* <a href="https://learnopengl.com">learnopengl
 
-# Release
-<b>SolarSystem 1.0 </b>можете да изтеглите от:
-|Version (<b>1.0</b>)|  [SolarSystem.zip](https://github.com/danitmb/SolarSystem/raw/refs/heads/main/install/SolarSystem.zip)|
+# Вдъхновен от
+* <a href="https://learnopengl.com">learnopengl</a> - обширен учебен ресурс за изучаване на OpenGL
+* <a href="https://www.solarsystemscope.com">solarsystemscope.com</a> - текстури на планетите в Слънчевата система
+* <a href="https://sketchfab.com">sketchfab.com</a> - 3D модели на обекти
+* <a href="https://github.com/1kar/OpenGL-SolarSystem">OpenGL-SolarSystem</a> - 3D модел на Слънчевата система на C/C++/OpenGL/GLFW
+
+# Пускане
+<b>Слънчева система 1.0</b> може да бъде изтеглена от:
+|Версия (<b>1.0</b>)|  [SolarSystem.zip](https://github.com/danitmb/SolarSystem/raw/refs/heads/main/install/SolarSystem.zip)|
 |---|---|
-|Ръководство за потребителя| [SolarSystem.pdf](https://github.com/danitmb/SolarSystem/blob/main/docs/SolarSystem.pdf)|
+|Ръководство за потребителя| [SolarSystem.pdf](docs/SolarSystem.pdf)|
 
 ## Системни изисквания
 
-Windows OS 10/11
+Операционна система Windows 10/11
 <br>
-Видео карта, поддържаща OpenGL 4.x и 1GB памет
+Видео карта, която поддържа OpenGL 4.x и 1GB памет
