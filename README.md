@@ -147,11 +147,11 @@
 
 В изглед на планети и луни има допълнителна информация за обектите, която се показва с клавиша X:
 
-| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/EarthInfo.jpg" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/MarsInfo.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/https://github.com/danitmb/SolarSystem/blob/main/pics/PlutoInfo.jpg" width="300px"/> 
+| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/EarthInfo.jpg" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/PlutoInfo.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/https://github.com/danitmb/SolarSystem/blob/main/pics/PlutoInfo.jpg" width="300px"/> 
 |:---:|:---:|:---:|
 | *<b>Земя - Клавиш:3+X</b>* | *<b>Марс - Клавиш:4+X</b>* | *<b>Плутон - Клавиш:9+X</b>* | 
 
-| <img src="https://github.com/danitmb/SolarSystem/blob/main/https://github.com/danitmb/SolarSystem/blob/main/pics/MoonInfo.jpg" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/CallistoInfo.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/TritonInfo.jpg" width="300px"/> 
+| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/MoonInfo.jpg" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/CallistoInfo.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/TritonInfo.jpg" width="300px"/> 
 |:---:|:---:|:---:|
 | *<b>Луна - Клавиш:Цифр. клавиатура 1+X</b>* | *<b>Калисто - Клавиш:Цифр. клавиатура 6+X</b>* | *<b>Тритон - Клавиш:Цифр. клавиатура 9+X</b>* | 
 
