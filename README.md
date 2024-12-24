@@ -76,7 +76,7 @@
 Изгледът на астероидния пояс се активира с натискане на клавиша 0:
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/d2a3ac43-2120-4f64-963b-7fc302c3c72d" />
+<video src="https://github.com/user-attachments/assets/be5c9336-0e81-4073-85fe-4ea2194f53cf" />
 </div>
 
 Подробна информация за астероидите може да се активира с клавиша X:
@@ -90,11 +90,11 @@
 Изгледът на пояса на Кайпер се активира с клавиша 0 на цифровата клавиатура:
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/b7320a26-fe4c-4018-aace-eb966d712971" />
+<video src="https://github.com/user-attachments/assets/0b6606e0-db7d-4f38-b7c7-8b735ed6d391" />
 </div>
 
 <div align="center">
-<video src="https://github.com/user-attachments/assets/cd410638-9a8c-4ca7-805a-06d684e070ba" />
+<video src="https://github.com/user-attachments/assets/cd090cc6-e5bf-4439-bfb7-1047c35fffd6" />
 </div>
 
 Допълнителната информация за пояса на Кайпер се показва с натискане на клавиша X
