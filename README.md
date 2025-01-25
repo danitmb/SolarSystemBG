@@ -189,7 +189,7 @@
 <ul>
  <li>Пътуване с космически кораб около слънчевата система </li>
 
- | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Spaceship1.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Spaceship2.jpg" width="300px"/> | <img src="pics/Spaceship3.jpg" width="300px"/>
+ | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Spaceship1.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Spaceship2.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Spaceship3.jpg" width="300px"/>
  |:---:|:---:|:---:|
  <li>Избор на планети и взаимодействие </li>
  <li>Показване на вътрешната структура на планетите</li>
