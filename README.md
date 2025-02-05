@@ -53,24 +53,28 @@
 
 ### Клавиатура
 
-- WASDQE – движение на камерата
-- Стрелки, точка и пръскане – завъртане на изгледа
-- 1 – 0 на клавиатурата – промяна на камерата към изглед на планети
-- 1 – 6 на клавиатурата - промяна на камерата към изглед на луни
-- R – промяна на фона
-- Аз – влизам и излизам от космически кораб
-- O – показване и скриване на орбити
-- P – време на замразяване
-- J – промяна на камерата към страничен изглед (в изглед на планета)
-- K – покажи космически кораб
-- L – промяна на езика
-- Клавиатура (+, -) – промяна на скоростта на симулация
-- Интервал – връщане към POV по подразбиране
-- F1 – промяна на POV на freecam
-- X - показва допълнителна информация (в изглед на планета)
-- F - ПревБутонване на цял екран
-- F7 - начало на пътуването
-
+ - /(? - помощно меню
+ - WASDQE – движение на камерата.
+ - Стрелки – завъртане на изгледа спрямо осите X и Y.
+ - < > – завъртане на изгледа спрямо оста Z.
+ - 1 – 0 на клавиатурата – смяна на камерата към изглед на планетите
+ - 1 – 6 на цифровия блок – смяна на камерата към изглед на луните
+ - R – смяна на фона.
+ - O – показване и скриване на орбитите
+ - P – пауза
+ - J – смяна на камерата към страничен изглед (в изглед на планета)
+ - K – показване на космическия кораб
+ - L – смяна на езика
+ - (+, - – промяна на скоростта на симулацията
+ - Space – връщане към стандартната гледна точка
+ - F1 – превключване към свободна камера
+ - X – показване на допълнителна информация (в изглед на планета)
+ - F – превключване на цял екран
+ - NM - смяна на броя на астероидите
+ - HG - смяна на броя на астероидите на Кайпер
+ - Z - показване на оси
+ - B - показване на астероиден пояс
+ - V - показване на пояса на Кайпер
 ### Мишка
 
 - ляв бутон - завъртане на изгледа
@@ -104,84 +108,81 @@
 <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/AsteroidsKuiperInfo.jpg" width="854px"/>
 </div>
 
-## Пътуване
+## Пръстени на Сатурн
 
-Можете да започнете пътуване, като натиснете бутона F7.
+Сатурновият пояс се състои от три подпоения, известни като A, B и C.
+<div align="center">
+ <video src="https://github.com/user-attachments/assets/5fe0d665-2acf-41b8-b2ae-a558ace83785"/>
+</div>
+
+Изглед на пътуване на камерата започва с натискането на клавиш F7.
 
 <div align="center">
 <video src="https://github.com/user-attachments/assets/2155c13e-c825-4a8c-8121-8c39edd8124c" />
 </div>
- 
-Показването на орбитите на планетите може да се вБутонва и изБутонва с помощта на клавиша "O" и тази функция работи както в нормален изглед, така и в изглед на планета.
 
-<p align="center">
-<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Orbits.jpg" width="854px"/>
-</p>
+Показването на орбитите на планетите може да се включва и изключва с клавиш "O", и тази функция работи както в нормален, така и в планетен изглед.
 
-Можете да превключвате между следните изгледи на планетарни камери, като използвате клавишите 1-9 на клавиатурата:
+Можете да преминавате между следните изгледи на планетарните камери с помощта на клавишите 1-9 на клавиатурата:
 
-| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Mercury.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Venus.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Earth.jpg" width="300px"/>
+| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Mercury.jpg" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Venus.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Earth.jpg" width="300px"/> 
 |:---:|:---:|:---:|
-| *<b>Меркурий - Бутон:1 </b>* | *<b>Венера - Бутон: 2</b>* | *<b>Земя - Бутон:3</b>* |
+| *<b>Меркурий - Клавиш:1 </b>* | *<b>Венера  - Клавиш:2</b>* | *<b>Земя - Клавиш:3</b>* | 
 
 | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Mars.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Jupiter.jpg" width="300px"/>|<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Saturn.jpg" width="300px"/>|
 |:---:|:---:|:---:|
-| *<b>Марс - Бутон: 4 </b>* | *<b>Юпитер - Бутон:5 </b>* | *<b>Сатурн - Бутон:6 </b>* |
+| *<b>Марс - Клавиш:4 </b>* | *<b>Юпитер - Клавиш:5 </b>* | *<b>Сатурн - Клавиш:6 </b>* | 
 
 | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Neptune.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Uranus.jpg" width="300px"/>|<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Pluto.jpg" width="300px"/>|
 |:---:|:---:|:---:|
-| *<b>Нептун - Бутон:7 </b>* | *<b>Уран - Бутон:8 </b>* | *<b>Плутон - Бутон:9 </b>* |
+| *<b>Нептун - Клавиш:7 </b>* | *<b>Уран - Клавиш:8 </b>* | *<b>Плутон - Клавиш:9 </b>* | 
 
-Изгледът на планети и луни може да се превБутони към страничен орбитален изглед с клавиш J:
+Изгледите на планетите и луните могат да бъдат превключени към страничен орбитален изглед с клавиш J:
 
-| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Mercury2.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Venus2.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Earth2.jpg" width="300px"/>
+| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Mercury2.jpg" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Venus2.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Earth2.jpg" width="300px"/> 
 |:---:|:---:|:---:|
-| *<b>Изглед отстрани на Меркурий - Бутон:1+J </b>* | *<b>Изглед отстрани на Венера - Бутон:2+J</b>* | *<b>Изглед от страната на Земята - Бутон:3+J</b>* |
+| *<b>Страничен изглед на Меркурий - Клавиш:1+J </b>* | *<b>Страничен изглед на Венера - Клавиш:2+J</b>* | *<b>Страничен изглед на Земя - Клавиш:3+J</b>* | 
 
 | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Mars2.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Jupiter2.jpg" width="300px"/>|<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Saturn2.jpg" width="300px"/>|
 |:---:|:---:|:---:|
-| *<b>Изглед отстрани на Марс - Бутон:4+J </b>* | *<b>Изглед отстрани на Юпитер - Бутон:5+J </b>* | *<b>Страничен изглед на Сатурн - Бутон:6+J </b>* |
+| *<b>Страничен изглед на Марс - Клавиш:4+J </b>* | *<b>Страничен изглед на Юпитер - Клавиш:5+J </b>* | *<b>Страничен изглед на Сатурн - Клавиш:6+J </b>* | 
 
 | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Neptune2.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Uranus2.jpg" width="300px"/>|<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Pluto2.jpg" width="300px"/>|
 |:---:|:---:|:---:|
-| *<b>Изглед отстрани на Нептун - Бутон:7+J </b>* | *<b>Изглед отстрани на Уран - Бутон:8+J </b>* | *<b>Изглед отстрани на Плутон - Бутон:9 +J</b>* |
+| *<b>Страничен изглед на Нептун - Клавиш:7+J </b>* | *<b>Страничен изглед на Уран - Клавиш:8+J </b>* | *<b>Страничен изглед на Плутон - Клавиш:9 +J</b>* | 
 
-Изгледи на камерата за няколко от луните (1–6 на клавиатурата):
+Изгледи на камерата за някои от луните (1–6 на цифровата клавиатура):
 
-| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Moon2.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Io2.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Europa2.jpg" width="300px"/>
+| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Moon2.jpg" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Io2.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Europa2.jpg" width="300px"/> 
 |:---:|:---:|:---:|
-| *<b>Луна - Клавиатура:1</b>* | *<b>Io - клавиатура:2</b>* | *<b>Europa- KeyPad:3</b>* |
+| *<b>Луна - Клавиш:1</b>* | *<b>Ио - Клавиш:2</b>* | *<b>Европа- Клавиш:3</b>* | 
 
 | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Ganymede2.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Callisto2.jpg" width="300px"/>|<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Rhea2.jpg" width="300px"/>|
 |:---:|:---:|:---:|
-| *<b>Ганимед - клавиатура:4 </b>* | *<b>Callisto- KeyPad:5 </b>* | *<b>Rhea - Клавиатура:6 </b>* |
+| *<b>Ганимед - Клавиш:4 </b>* | *<b>Калипсо- Клавиш:5 </b>* | *<b>Рея - Клавиш:6 </b>* | 
 
 | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Titan2.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Oberon2.jpg" width="300px"/>|<img src="https://github.com/danitmb/SolarSystem/blob/main/pics/Triton2.jpg" width="300px"/>|
 |:---:|:---:|:---:|
-| *<b>Titan - Клавиатура:7 </b>* | *<b>Oberon- KeyPad:8 </b>* | *<b>Triton - клавиатура:9 </b>* |
+| *<b>Титан - Клавиш:7 </b>* | *<b>Оберон- Клавиш:8 </b>* | *<b>Тритон - Клавиш:9 </b>* | 
 
-В изгледите на планети и луни има допълнителна информация за обектите, показани с клавиша X:
+В изгледите на планетите и луните има допълнителна информация за показваните обекти с клавиш X:
 
-| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/EarthInfo.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/MarsInfo.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/PlutoInfo.jpg" width="300px"/>
+| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/EarthInfo.jpg" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/MarsInfo.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/PlutoInfo.jpg" width="300px"/> 
 |:---:|:---:|:---:|
-| *<b>Земя - Бутон:3+X</b>* | *<b>Марс - Бутон:4+X</b>* | *<b>Плутон- Бутон:9+X</b>* |
+| *<b>Земя - Клавиш:3+X</b>* | *<b>Марс - Клавиш:4+X</b>* | *<b>Плутон- Клавиш:9+X</b>* | 
 
-| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/MoonInfo.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/CallistoInfo.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/TritonInfo.jpg" width="300px"/>
+| <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/MoonInfo.jpg" width="300px"/> |  <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/CallistoInfo.jpg" width="300px"/> | <img src="https://github.com/danitmb/SolarSystem/blob/main/pics/TritonInfo.jpg" width="300px"/> 
 |:---:|:---:|:---:|
-| *<b>Луна - Бутон:KP 1+X</b>* | *<b>Калисто - Бутон:KP 6+X</b>* | *<b>Тритон- Бутон:KP 9+X</b>* |
+| *<b>Луна - Клавиш:KP 1+X</b>* | *<b>Калипсо - Клавиш:KP 6+X</b>* | *<b>Тритон- Клавиш:KP 9+X</b>* | 
 
 Отново клавишите J и O могат да се използват за показване на орбитите на планетите:
 
 <div align="center">
- <video src="https://github.com/user-attachments/assets/4a4b5588-219a-4aa4-bb61-bf4b96394c10" />
+ <video src="https://github.com/user-attachments/assets/d5fa2e72-c69d-4172-8541-b1b3d5ab8889" />
 </div>
 
 <div align="center">
- <video src="https://github.com/user-attachments/assets/44519ce4-bae0-4643-925b-45b4cee0c2d3" />
-</div>
-
-<div align="center">
- <video src="https://github.com/user-attachments/assets/d2270dc1-7ee5-40e9-98d3-667128fcc470"/>
+ <video src="https://github.com/user-attachments/assets/3f7a4180-77c4-4103-9bba-f2391ade11f0" />
 </div>
 
 ## Предстоят още..
